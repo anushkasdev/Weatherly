@@ -54,7 +54,7 @@ Weatherly will now be running on http://localhost:5173
 
 ## 🎥 Demo
 
-<video src="demo/weatherly-demo.mp4" controls autoplay loop muted width="600"></video>
+<video src="demo/weatherly-demo.mp4" controls autoplay loop muted width="600">Play</video>
 
 🤝 Contributing
 
