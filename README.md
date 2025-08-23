@@ -1,12 +1,77 @@
-# React + Vite
+🌦️ Weatherly
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Weatherly is a sleek and minimal React-based weather app that lets you check real-time weather conditions for any city in the world. With a clean UI and accurate data, Weatherly ensures you always stay prepared for the day ahead.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌍 Search weather by city name
 
-## Expanding the ESLint configuration
+🌡️ Displays temperature, humidity, and wind speed
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+☀️ Dynamic weather icons based on conditions (clear, cloudy, rainy, etc.)
+
+📱 Responsive design for desktop and mobile
+
+⚡ Fast and lightweight – built with React Hooks
+
+🛠️ Tech Stack
+
+Frontend: React.js (with Hooks & Functional Components)
+
+Styling: CSS / Tailwind (if you’ve used it)
+
+API: OpenWeather API
+
+Icons: Custom weather icons
+
+🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+1️⃣ Clone the repository
+git clone https://github.com/anushkasdev/weatherly.git
+cd weatherly
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Get your API key
+
+Sign up on OpenWeather
+
+Generate an API key
+
+Create a .env file in the root folder and add:
+
+REACT_APP_WEATHER_API_KEY=your_api_key_here
+
+4️⃣ Start the app
+npm start
+
+
+Weatherly will now be running on http://localhost:5173
+. 🎉
+
+[Watch the demo video](public/Weatherly%20recording.mp4)
+
+🤝 Contributing
+
+Contributions are always welcome!
+
+Fork the repo
+
+Create your feature branch (git checkout -b feature-name)
+
+Commit changes (git commit -m 'Add new feature')
+
+Push to branch (git push origin feature-name)
+
+Open a Pull Request 🚀
+
+📜 License
+
+This project is licensed under the MIT License.
+
+💡 Inspiration
+
+Weatherly was built as part of my React learning journey. The goal was to create a simple yet modern weather app that is both functional and user-friendly.
