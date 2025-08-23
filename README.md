@@ -52,7 +52,9 @@ npm start
 Weatherly will now be running on http://localhost:5173
 . 🎉
 
-[Watch the demo video](public/Weatherly%20recording.mp4)
+## 🎥 Demo
+
+<video src="demo/weatherly-demo.mp4" controls autoplay loop muted width="600"></video>
 
 🤝 Contributing
 
