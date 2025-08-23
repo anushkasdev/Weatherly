@@ -2,6 +2,13 @@
 
 Weatherly is a sleek and minimal React-based weather app that lets you check real-time weather conditions for any city in the world. With a clean UI and accurate data, Weatherly ensures you always stay prepared for the day ahead.
 
+
+https://github.com/user-attachments/assets/201255c2-9324-4382-8061-e9422078374f
+
+
+
+
+
 ✨ Features
 
 🌍 Search weather by city name
