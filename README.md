@@ -9,18 +9,22 @@ https://github.com/user-attachments/assets/201255c2-9324-4382-8061-e9422078374f
 ✨ Features
 
 🌍 Search weather by city name
+
 🌡️ Displays temperature, humidity, and wind speed
+
 ☀️ Dynamic weather icons based on conditions (clear, cloudy, rainy, etc.)
+
 📱 Responsive design for desktop and mobile
+
 ⚡ Fast and lightweight – built with React Hooks
-🔔 Toastr validations
-User-friendly toastr notifications for invalid or empty city names.
+
+🔔 User-friendly toastr notifications for invalid or empty city names.
 
 🛠️ Tech Stack
 
-Frontend: React.js (with Hooks & Functional Components)
+Frontend: React.js (with Hooks)
 
-Styling: CSS / Tailwind (if you’ve used it)
+Styling: CSS / Tailwind 
 
 API: OpenWeather API
 
