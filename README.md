@@ -6,20 +6,15 @@ Weatherly is a sleek and minimal React-based weather app that lets you check rea
 https://github.com/user-attachments/assets/201255c2-9324-4382-8061-e9422078374f
 
 
-
-
-
 ✨ Features
 
 🌍 Search weather by city name
-
 🌡️ Displays temperature, humidity, and wind speed
-
 ☀️ Dynamic weather icons based on conditions (clear, cloudy, rainy, etc.)
-
 📱 Responsive design for desktop and mobile
-
 ⚡ Fast and lightweight – built with React Hooks
+🔔 Toastr validations
+User-friendly toastr notifications for invalid or empty city names.
 
 🛠️ Tech Stack
 
@@ -56,12 +51,7 @@ REACT_APP_WEATHER_API_KEY=your_api_key_here
 npm start
 
 
-Weatherly will now be running on http://localhost:5173
-. 🎉
-
-## 🎥 Demo
-
-<video src="demo/weatherly-demo.mp4" controls autoplay loop muted width="600">Play</video>
+Weatherly will now be running on http://localhost:5173 🎉
 
 🤝 Contributing
 
@@ -83,4 +73,4 @@ This project is licensed under the MIT License.
 
 💡 Inspiration
 
-Weatherly was built as part of my React learning journey. The goal was to create a simple yet modern weather app that is both functional and user-friendly.
+Weatherly is built as part of my React learning journey. The goal was to create a simple yet modern weather app that is both functional and user-friendly.
